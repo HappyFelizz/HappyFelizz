@@ -1,15 +1,68 @@
-# 💫 About Me:
-👋 About Me<br><br>Hi! I'm a technology enthusiast with a strong passion for hardware and a growing focus on backend development.<br>I've always been deeply interested in how systems work at a low level, which is why I naturally developed a stronger affinity for hardware. This led me to pursue computing, where I can combine both hardware and software to build efficient and reliable solutions.<br>Recently, I've been dedicating more time to backend development, learning how to design systems, work with data, and build scalable applications. I enjoy understanding not just how to write code, but how things actually work behind the scenes.<br><br>🚀 What I'm working on<br><br>- Studying SQL and integrating it with Python for backend and data handling<br>- Learning backend concepts such as APIs, databases, and system design<br>- Building personal and academic projects<br><br>🎯 Goals<br><br>- Become a backend developer with strong low-level understanding<br>- Build efficient, scalable, and reliable systems<br>- Grow professionally and contribute to impactful projects<br><br>💡 Interests<br><br>- Backend development<br>- Databases and data processing<br>- Hardware and system performance<br>- Technology & innovation<br>- Games and competitive environments<br><br>---<br><br>Thanks for visiting my profile!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisinacioaraujo) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h1> { Luís Araujo }</h1>
+  <p><strong> Computer Engineering student - Backend Developer - Hardware and Software enthusiast </strong></p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HappyFelizz&icon=10&color=3)](https://visitcount.itsvg.in)
+
+## 📋 About Me
+
+Hi! My name is Luis, and welcome to my profile!
+
+I am a Computer Engineering student with a solid foundation in both hardware and software. I’ve always been curious about how systems work at a deeper level, which led me to develop a strong interest in low-level concepts and system performance.
+
+Currently, I am focusing on backend development, where I enjoy working with databases, designing APIs, and building scalable applications. I like not only writing code, but also understanding the architecture and logic behind it.
+
+I am constantly learning and improving my skills, aiming to become a well-rounded **engineer** capable of building efficient, reliable, and impactful solutions.
+
+
+---
+
+## ✍🏻 What I'm Working On
+
+- 🐧 Learning and improving my skills in Linux systems, focusing on environment setup, terminal usage, and system-level understanding
+- ⚙️ Studying backend development, including APIs, databases, and system design concepts
+- 🗄️ Working with SQL and integrating it with Python for data handling and backend applications
+- 🌐 Expanding my knowledge of frontend technologies (HTML, CSS, JavaScript) to better understand full-stack development
+- 🧪 Building personal and academic projects to apply and reinforce everything I learn
+
+---
+
+## ⭐ Goals
+
+- Become a **backend developer** with strong low-level knowledge  
+- Build **efficient, scalable, and reliable systems**  
+- Grow professionally and contribute to impactful projects
+- **And build a journey that I can look back on with pride** 
+
+---
+
+## 🔥 Interests
+
+- 🔧 Backend Development  
+- 🗄️ Databases & Data Processing  
+- ⚡ Hardware & System Performance  
+- 🚀 Technology & Innovation  
+- 🎮 Competitive Games  
+
+---
+
+## 💾 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,dotnet,flask,postman,bootstrap,sqlite,mysql,git,github,unity,linux"/>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting! ⁴⁰⁴</h3>
+</div>
